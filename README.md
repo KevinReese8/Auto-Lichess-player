@@ -42,7 +42,7 @@ pip install python-chess berserk
 
 5. 配置您的 API 令牌：
    - 打开 `config.py` 文件
-   - 将您的 Lichess API 令牌替换 `LICHESS_API_TOKEN` 变量的值
+   - **将您的 Lichess API 令牌替换 `LICHESS_API_TOKEN` 变量的值**
    - 如果需要，设置 `ENGINE_PATH` 变量为您的国际象棋引擎路径
 
 ## 使用方法
