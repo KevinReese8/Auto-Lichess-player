@@ -1,0 +1,10 @@
+# Lichess自动对弈机器人所需的依赖包
+
+# python-chess: 用于棋盘表示和走法验证
+python-chess>=1.9.0
+
+# berserk: Lichess API的Python客户端
+berserk>=0.10.0
+
+# requests: 用于HTTP请求
+requests>=2.25.0
